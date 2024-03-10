@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Visit my personal home page [przemeknowak.com](https://przemeknowak.com) 😉
+
 <!--
 **pnowy/pnowy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
